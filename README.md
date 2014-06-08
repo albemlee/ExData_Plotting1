@@ -1,5 +1,5 @@
 This repos contain the first completed assignment for Exploratory Data Analysis Coursera Course. In addition to this readme, There
-are 9 different files:
+are 8 different files:
 
 
 plot1.R
@@ -18,8 +18,6 @@ plot4.R
 
 plot4.png
 
-household_power_consumption.txt
-
 
 The R files contains the code used to produce the plots in the png files. Below is a description of each plot:
 
@@ -33,7 +31,7 @@ plot3: Scatterplot of Date and each of the Energy Sub Meterings
 plot4: plot1, scatterplot of Date and Voltage, plot3, and scatterplot of Date and Global Reactive Power displayed together
 
 
-At the bottom of this file, is the original description of the data used for this assignment (household_power_consumption.txt)
+At the bottom of this file, is the original description of the data used for this assignment
 given in the assignment description. The data in the plots represent data from two days in February 2007.
 
 
