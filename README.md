@@ -1,26 +1,37 @@
 This repos contain the first completed assignment for Exploratory Data Analysis Coursera Course. In addition to this readme, There
 are 9 different files:
 
-<ol>
-<li>plot1.R
-<li>plot1.png
-<li>plot2.R
-<li>plot2.png
-<li>plot3.R
-<li>plot3.png
-<li>plot4.R
-<li>plot4.png
-<li>household_power_consumption.txt
-<ol>
+
+plot1.R
+
+plot1.png
+
+plot2.R
+
+plot2.png
+
+plot3.R
+
+plot3.png
+
+plot4.R
+
+plot4.png
+
+household_power_consumption.txt
+
 
 The R files contains the code used to produce the plots in the png files. Below is a description of each plot:
 
-<ol>
-<li>plot1: histogram of Global Active Power
-<li>plot2: scatterplot of Date and Global Active Power
-<li>plot3: Scatterplot of Date and each of the Energy Sub Meterings
-<li>plot4: plot1, scatterplot of Date and Voltage, plot3, and scatterplot of Date and Global Reactive Power displayed together
-<ol>
+
+plot1: histogram of Global Active Power
+
+plot2: scatterplot of Date and Global Active Power
+
+plot3: Scatterplot of Date and each of the Energy Sub Meterings
+
+plot4: plot1, scatterplot of Date and Voltage, plot3, and scatterplot of Date and Global Reactive Power displayed together
+
 
 At the bottom of this file, is the original description of the data used for this assignment (household_power_consumption.txt)
 given in the assignment description. The data in the plots represent data from two days in February 2007.
